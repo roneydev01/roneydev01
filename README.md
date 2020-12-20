@@ -33,6 +33,6 @@ Here are some ideas to get you started:
 <h1>GitHub Languages</h1>
 <a href="https://github.com/roneydev01/github-readme-stats">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=roneydev01&layout=compact&theme=material-palenight" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=roneydev01&layout=compact&theme=tokyonight" />
 </a>
 
