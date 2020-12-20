@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 <h1>GitHub Stats</h1>
 <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
 <a href="https://github.com/roneydev01/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=roneydev01&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Anurag's github stats" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=roneydev01&show_icons=true&include_all_commits=true&theme=material-dark" alt="Anurag's github stats" />
 </a>
 <br />
 <br />
